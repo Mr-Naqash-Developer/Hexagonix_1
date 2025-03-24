@@ -6,7 +6,7 @@ const SplashScreen = ({ navigation }) => {
 
   useEffect(() => {
     setTimeout(() => {
-      navigation.replace('Home')
+      navigation.replace('/')
     }, 2000)
   }, [])
 

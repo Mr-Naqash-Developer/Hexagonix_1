@@ -3,7 +3,7 @@
 // export default function RootLayout() {
 //   return (
 //     <Stack>
-//       <Stack.Screen />
+//       <Stack.Screen name="_not-found" options={{ headerShown: true }}/>
 //     </Stack>
 //   )
 // }
